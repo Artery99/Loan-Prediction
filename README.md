@@ -1,6 +1,6 @@
 # Loan Prediction
 
-# This Jupyter Notebook provides an end-to-end workflow for predicting loan approval using machine learning. It includes data exploration, preprocessing, feature engineering, and model evaluation.
+This Jupyter Notebook provides an end-to-end workflow for predicting loan approval using machine learning. It includes data exploration, preprocessing, feature engineering, and model evaluation.
 
 # Features:
 Exploratory Data Analysis (EDA): Summary statistics and visualizations to understand important features.
